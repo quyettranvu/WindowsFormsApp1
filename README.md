@@ -1,1 +1,1 @@
-Working Panel for Admin with functions relating to user 
+Working Panel for Admin with functions relating to users
